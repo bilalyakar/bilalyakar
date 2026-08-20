@@ -1,4 +1,4 @@
-<h3>🔴 🟡 🟢 bilal@elazig: ~</h3>
+<h3>🔴 🟡 🟢 bilal@yakar: ~</h3>
 
 <table width="100%" style="background-color: #0d1117;">
   <tr>
@@ -43,25 +43,25 @@ BBBBB##############BY577!!!!!~~!7?7?!7?!~~~~~^^~~~7J75&&&&&&&&&&&&&&&&&&&&&&&&&&
 <!-- SAĞ KOLON: KİŞİSEL BİLGİLER -->
 <td width="50%" valign="top">
 Bash
-bilal@elazig:~$ neofetch
+bilal@yakar:~$ neofetch
 -----------------------------
 OS: ................. Arch Linux, CachyOS, Kali
 Host: ............... Fırat University
 Education: .......... Adli Bilişim Mühendisliği
-Role: ............... Cybersecurity, CTF Player
+Role: ............... Cybersecurity, Red Team
 
-Languages: .......... C, C++, Java, Python, SQL, Move
-Interests: .......... Digital Forensics, Web3 (Sui)
-Projects: ........... Lunay (TUA), Hap'tan Top Bilgiler
+Languages: .......... C, Java, Python, Move
+Interests: .......... Digital Forensics, Web3 
+Projects: ........... Lunay (TUA), Hap'tan Top Bilgiler, 
 
 bilal@elazig:~$ cat contact.txt
 -----------------------------
 Community.Lead: ..... Bilişim ve Yazılım Topluluğu
 LinkedIn: ........... [linkedin.com/in/bilalyakar](https://linkedin.com/in/bilalyakar)
-Discord: ............ bilalyakar#0000
+Discord: ............ ******
 
-bilal@elazig:~$ gh api user --stats
+bilal@yakar:~$ gh api user --stats
 -----------------------------
-Repos: .............. 15
+Repos: .............. 3
 Commits: ............ 400+
-bilal@elazig:~$ █
+bilal@yakar:~$ █
