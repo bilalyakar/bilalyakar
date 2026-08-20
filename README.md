@@ -6,7 +6,7 @@
             &#GGBGPP555PB#BPP5555P5P55P5JJPGGB&&       . Role: ..................... Cyber security, Red Team
            @&###BBGGPPPP555JYYYYY??J77?JJJY55G#@       
            @###&#P55555YJ?JJ???JJJ!!~~!~!J5YYYG&&      . Languages.Programming: .... C, Java, Python, Move
-           &#BGG5J??J??????!7?777!~^^^^^^~?55JJP&&     . Interests.Core: ........... Digital Forensics, Web3, Cyber Security, Network, Bug bounty
+           &#BGG5J??J??????!7?777!~^^^^^^~?55JJP&&     . Interests.Core: ........... Digital Forensics, Web3, Cyber Security, Bug bounty, Artificial intelligence 
           BGB#PY??7!77!!!~~!!!!!~~!77!!~^~?55YYB&      . Projects.Active: .......... Lunay for TUA, Hap'tan Top Bilgiler, EABB for TUBITAK.
            #GGB?777!!!!!!!!!!~7JJYJ?7!!!!~~~?555G&     
            @BGBJ7!!?JJY5YYJ7!!!7???JY?7?!~^^~JJ?G@     - Contact --------------------------------------
